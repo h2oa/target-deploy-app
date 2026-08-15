@@ -1,0 +1,3 @@
+deploy:
+  override:
+    - bash scripts/deploy.sh
